@@ -1,7 +1,7 @@
 # Hi there, I'm Santhosh Kumar Gottimukkala 👋
 
 ## 🚀 Professional Tagline
-An innovative and detail-oriented Software Engineer with 4+ years of experience designing scalable backend architectures, microservices, and automated data systems utilizing Java and Go Lang.
+An innovative and detail-oriented Software Engineer with 4+ years of experience designing scalable backend architectures, microservices, and automated data systems utilizing Java Spring Boot and Microservices.
 
 ---
 
